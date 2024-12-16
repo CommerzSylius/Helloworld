@@ -1,0 +1,12 @@
+{
+    "name": "commerz-sylius/helloworld",
+    "description": "Composer installer testing",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard",
+            "email": "richard@commerz.se"
+        }
+    ]
+}
