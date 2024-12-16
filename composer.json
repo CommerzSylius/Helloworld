@@ -9,6 +9,9 @@
             "email": "richard@commerz.se"
         }
     ],
+    "extra": {
+        "class": "helloworld"
+    },
     "require": {
          
         "composer-plugin-api": "^2.6.0"
