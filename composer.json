@@ -10,7 +10,7 @@
         }
     ],
     "extra": {
-        "class": "helloworld"
+        "class": "\\helloworld"
     },
     "require": {
          
