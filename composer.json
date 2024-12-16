@@ -11,6 +11,8 @@
     ],
     "extra": {
         "class": "Commerz-Sylius\\helloworld"
-    }
+    },
+    "require": {},
+    "require-dev": {}
 
 }
