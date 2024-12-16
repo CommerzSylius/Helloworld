@@ -9,9 +9,6 @@
             "email": "richard@commerz.se"
         }
     ],
-    "autoload": {
-        "psr-4": {"commerzsylius\\": "src/"}
-    },
     "extra": {
         "class": "commerzsylius\\helloworld"
     },
