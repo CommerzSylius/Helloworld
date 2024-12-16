@@ -1,5 +1,5 @@
 {
-    "name": "commerz-sylius/helloworld",
+    "name": "commerzsylius/helloworld",
     "description": "Composer installer testing",
     "type": "composer-plugin",
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "extra": {
-        "class": "App\\helloworld"
+        "class": "commerzsylius\\helloworld"
     },
     "require": {
          
