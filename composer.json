@@ -8,5 +8,9 @@
             "name": "Richard",
             "email": "richard@commerz.se"
         }
-    ]
+    ],
+    "extra": {
+        "class": "Commerz-Sylius\\helloworld"
+    }
+
 }
