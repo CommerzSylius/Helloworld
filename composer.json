@@ -10,7 +10,7 @@
         }
     ],
     "extra": {
-        "class": "Commerz-Sylius\\helloworld"
+        "class": "App\\helloworld"
     },
     "require": {
          
