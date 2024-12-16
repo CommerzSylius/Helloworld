@@ -10,7 +10,6 @@
         }
     ],
     "extra": {
-        // Plugin commerzsylius/helloworld could not be initialized, class not found: src\helloworld
         "class": "src\\helloworld" 
     },
     "require": {
