@@ -12,7 +12,13 @@
     "extra": {
         "class": "Commerz-Sylius\\helloworld"
     },
-    "require": {},
-    "require-dev": {}
+    "require": {
+
+        "composer/composer": "^1.3"
+    },
+    "require-dev": {
+
+        "composer/composer": "^1.3"
+    }
 
 }
