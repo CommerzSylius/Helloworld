@@ -1,17 +1,16 @@
 <?php
 
-namespace src;
+namespace Commerzsylius\HelloWorld;
 
 // composer require commerzsylius/helloworld
 // Plugin commerzsylius/helloworld could not be initialized, class not found: src\helloworld
 
 // See "composer.json" To fix this error!!
 
-class helloworld
+class HelloWorld
 {
-    public function sayHello()
+    public function sayHello(): string
     {
-        return 'Hello World!';
+        return 'Hello, world!';
     }
 }
-

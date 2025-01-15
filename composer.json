@@ -1,24 +1,20 @@
 {
     "name": "commerzsylius/helloworld",
     "description": "Composer installer testing",
-    "type": "composer-plugin",
-    "license": "MIT",
+    "type": "sylius-plugin",
     "authors": [
         {
             "name": "Richard",
             "email": "richard@commerz.se"
         }
     ],
-    "extra": {
-        "class": "src\\helloworld" 
-    },
     "require": {
-         
-        "composer-plugin-api": "^2.6.0"
+        "php": "^8.1"
     },
-    "require-dev": {
-
-        "composer-plugin-api": "^2.6.0"
-    }
-
+    "autoload": {
+        "psr-4": {
+            "Commerzsylius\\HelloWorld\\": "src/"
+        }
+    },
+    "license": "MIT"
 }
